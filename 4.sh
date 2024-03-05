@@ -10,7 +10,7 @@ if [ $1 = $nombre ]; then
         media=$((total_nota/num_lineas))
     fi
     done < notas.txt
-    if [ $nota -ge 5 ]; then
+    if [ $media -ge 5 ]; then
      echo " Aprobado (enhorabuena jefe)"
      else
      echo " Suspendido (eres de francia)"

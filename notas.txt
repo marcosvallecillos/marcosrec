@@ -2,7 +2,7 @@ NOM ASSIG NOTA
 Pepe SOR 4
 Antonio FOL 5
 Ana SOR 8
-Pepe SEG 9
-Antonio WEB 8
+Pepe SEG 4
+Antonio WEB 4
 Ana SEG 4
 Antonio SEG 7
